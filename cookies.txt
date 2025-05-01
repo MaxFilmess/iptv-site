@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-playiptv.club	TRUE	/	FALSE	1999999999	PHPSESSID	d67e7ca90ff957f8e24d9534a501c8f9
-
